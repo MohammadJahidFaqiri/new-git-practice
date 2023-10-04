@@ -1,2 +1,7 @@
-package main;public class PracticeWithGit {
+package main;
+
+public class PracticeWithGit {
+    public static void main(String[] args) {
+        System.out.println("This is Practice project ");
+    }
 }
